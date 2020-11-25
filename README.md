@@ -1,4 +1,4 @@
-# FarmerInsurance
+# Farmers Insurance
   Here I will explain little bit my RestAssured library framework
   My framework is Junit so I used from Junit 5 @BeforeAll method with  URI and
 path before starting to test needs to go that URI than I added  @DisplayName() to
